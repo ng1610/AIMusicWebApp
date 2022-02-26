@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+canvas{
+    box-shadow: 5px, 5px , 5px, gray;
+    border-radius: 15px;
+    border: solid white 1px;
+    background-color: gray;
+}
+#heading{
+    margin-top: 10px;
+    box-shadow: 5px, 5px , 5px, black;
+    width: 100%;
+}
+#song_name{
+    margin-left: 590px;
+    font-size: 20px;
+    border-radius: 10px;
+}
